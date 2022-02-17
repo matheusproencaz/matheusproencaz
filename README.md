@@ -21,9 +21,12 @@
   <img align="center" alt="logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="logo-SCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="right" alt="img-profile" width="250" style="" src="https://cdn.discordapp.com/attachments/744278896618373140/943982121486278716/1630017525395.jpg">
+
+  <img align="right" alt="img-profile" width="250" style="" src="https://i.imgur.com/CGX64F9.png">
+                                                                 
 </div>
   
+                                                                 
   ##
  
 <div> 
