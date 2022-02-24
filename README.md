@@ -1,8 +1,8 @@
 ## Olá! 🙋‍♂️ Sou Matheus Proença! 
 
 - 🔍 Procurando Oportunidades!
-- 🌱 No momento estou estudando no momento JAVA, Typescript/JavaScript, HTML e CSS
-- 🧪 Sou formado em Engenharia Química
+- 🌱 No momento estou estudando JAVA, Typescript/JavaScript, HTML e CSS
+- 🧪 Sou formado em Engenharia Química pela FURB.
 - 📫 E-mail: matheusproencaz@gmail.com
 
 <div align="center">
