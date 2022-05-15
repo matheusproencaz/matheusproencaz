@@ -1,3 +1,9 @@
+<style>
+  table td {
+    border: none !important;
+  }
+</style>
+
 <div align="center">
   
   <img align="right" alt="img-profile" width="250" style="" src="https://i.imgur.com/CGX64F9.png">
@@ -9,35 +15,66 @@
   - 🎨 Estudando Front-End utilizando React e Angular.
   - 🧪 Sou formado em Engenharia Química pela FURB.
   - 📫 E-mail: matheusproencaz@gmail.com
-    
+
   </div>
   
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=matheusproencaz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusproencaz&layout=compact&langs_count=7&theme=tokyonight"/>
+  <div align="left">
   
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=matheusproencaz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+  </div>
+    
 </div>
   
   ## Linguagens & Tecnologias
  
 <div align="center">
-    <img align="center" alt="logo-java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-    
-   
-  <img align="center" alt="logo-node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   
-  <img align="center" alt="logo-node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <div align="space-between">
+      
+    <table align="left">
+      
+            <tr>
+                <td> 
+                  <img align="center" alt="logo-java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+                </td>
+                <td> 
+                    <img align="center" alt="logo-node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+                </td>
+                <td> 
+                    <img align="center" alt="logo-node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+                </td>
+            </tr>
+             <tr>
+                <td> 
+                    <img align="center" alt="logo-node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+                </td>
+                <td> 
+                    <img align="center" alt="logo-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+                </td>
+                <td> 
+                    <img align="center" alt="logo-angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
+                </td>
+            </tr>
+                <tr>
+                    <td> 
+                        <img align="center" alt="logo-angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+                    </td>
+                    <td>
+                        <img align="center" alt="logo-angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+                    </td>
+                    <td>
+                        <img align="center" alt="logo-angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+                    </td>
+                </tr>
+        </table>
     
-  <img align="center" alt="logo-node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    
-  <img align="center" alt="logo-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    
-  <img align="center" alt="logo-angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
+<div align="left">
+<br>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusproencaz&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
   
-  <img align="center" alt="logo-angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  
-  <img align="center" alt="logo-angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  
-  <img align="center" alt="logo-angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+ </div>
   
 </div> 
                                                                  
