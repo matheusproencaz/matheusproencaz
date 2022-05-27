@@ -7,6 +7,7 @@
     <h2> Olá! 🙋‍♂️ Sou Matheus Proença! </h2>
   
   - 🌱 Estudando principalmente Back-End Java.
+  - 🏢 Atualmente estou trabalhando na Capgemini Brasil.
   - 🎨 Estudando Front-End utilizando React e Angular.
   - 🧪 Sou formado em Engenharia Química pela FURB.
   - 📫 E-mail: matheusproencaz@gmail.com
