@@ -1,11 +1,10 @@
-
 <div align="center">
-  
-  <img align="right" alt="img-profile" width="250" style="" src="https://i.imgur.com/CGX64F9.png">
-  
+
   <div align="left">
-    <h2> Olá! 🙋‍♂️ Sou Matheus Proença! </h2>
+    <img align="right" alt="img-profile" width="250" style="" src="https://i.imgur.com/CGX64F9.png"/>
   
+   <h2> Olá! 🙋‍♂️ Sou Matheus Proença! </h2>
+    
   - 🌱 Estudando principalmente Back-End Java.
   - 🏢 Atualmente estou trabalhando na Capgemini Brasil.
   - 🎨 Estudando Front-End utilizando React e Angular.
@@ -13,15 +12,14 @@
   - 📫 E-mail: matheusproencaz@gmail.com
 
   </div>
-  
-  <div align="left">
-  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusproencaz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusproencaz&layout=compact&langs_count=7&theme=tokyonight"/>
+<div align="left">
+
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusproencaz&layout=compact&langs_count=7&theme=tokyonight"/>
+
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=matheusproencaz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
-  </div>
-    
 </div>
   
   ## Linguagens & Tecnologias
