@@ -5,9 +5,8 @@
   
    <h2> Olá! 🙋‍♂️ Sou Matheus Proença! </h2>
     
-  - 🌱 Estudando principalmente Back-End Java.
-  - 🏢 Atualmente estou trabalhando na Capgemini Brasil.
-  - 🎨 Estudando Front-End utilizando React e Angular.
+  - 🌱 Atualmente Estudando Golang e Python.
+  - 🏢 Atualmente estou trabalhando na Serasa Experian.
   - 🧪 Sou formado em Engenharia Química pela FURB.
   - 📫 E-mail: matheusproencaz@gmail.com
 
@@ -32,6 +31,10 @@
   <img align="center" alt="logo-node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 
   <img align="center" alt="logo-node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+
+  <img align="center" alt="logo-go" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+
+  <img align="center" alt="logo-python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
   <img align="center" alt="logo-node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 
